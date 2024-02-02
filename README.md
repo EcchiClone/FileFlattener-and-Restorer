@@ -12,7 +12,7 @@
 ## 사용 방법
 
 <p align="center">
-  <img src="https://github.com/EcchiClone/FileFlattener-and-Restorer/assets/21221633/e139cf7c-7ffe-41dc-85c0-6b369c52e2d3"> ▷ flatten_and_move ▷ <img src="https://github.com/EcchiClone/FileFlattener-and-Restorer/assets/21221633/a2f1d53c-b836-4093-9039-6b4b5be3cfc4"> ▷ restore_files ▷ <img src="https://github.com/EcchiClone/FileFlattener-and-Restorer/assets/21221633/77e02d17-a942-4de4-84eb-97942cb7f164">
+  <img src="https://github.com/EcchiClone/FileFlattener-and-Restorer/assets/21221633/e139cf7c-7ffe-41dc-85c0-6b369c52e2d3"> ▷ flatten,move ▷ <img src="https://github.com/EcchiClone/FileFlattener-and-Restorer/assets/21221633/a2f1d53c-b836-4093-9039-6b4b5be3cfc4"> ▷ restore ▷ <img src="https://github.com/EcchiClone/FileFlattener-and-Restorer/assets/21221633/77e02d17-a942-4de4-84eb-97942cb7f164">
 </p>
 
 이 리포지토리를 클론하거나 직접 압축파일을 다운로드 받아 파일정리를 원하는 곳으로 위치시킨 후에 실행시켜 사용합니다.
